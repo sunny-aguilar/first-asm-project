@@ -8,6 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+add-two/
 
 # Excluded files from project
 *.lst
